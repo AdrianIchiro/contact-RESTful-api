@@ -1,0 +1,11 @@
+{
+  "name": "contact-restapi",
+  "version": "1.0.0",
+  "description": "Try restful api",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Adrian Fahren",
+  "license": "ISC"
+}
