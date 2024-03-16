@@ -1,7 +1,7 @@
 import { PrismaClient } from "@prisma/client";
 import { logging } from "./logging";
 
-export const PrismaClient = new PrismaClient({
+export const prismaClient = new PrismaClient({
   log: [
     {
       emit: "event",
