@@ -21,7 +21,7 @@ Response success
   "data": {
     "id": 1,
     "street": "telekomunikasi",
-    "province": "Bandung",
+    "province": "Jawa Barat",
     "city": "Bandung"
   }
 }
@@ -42,7 +42,7 @@ Request POST /api/address/:idaddress
 ```json
 {
   "street": "telekomunikasi",
-  "province": "Bandung",
+  "province": "Jawa Barat",
   "city": "Bandung"
 }
 ```
